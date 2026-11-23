@@ -11,6 +11,8 @@ linguistic-rhetorical concepts which serves as training data for explainable
 disinformation detection models. Following a Design Science Research approach,
 it also collects design knowledge on annotating such concepts with LLMs.
 
+Working copy of thesis can be found [here](https://github.com/moritz-podiebrad-thesis/EKILED-XAI-Dataset/blob/main/docs/thesis_working_version.pdf) (last updated: 22.11.2026).
+
 ## Repositories
 
 | Repository | Content |
