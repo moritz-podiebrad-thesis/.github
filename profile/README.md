@@ -1,5 +1,8 @@
 # Designed to Debunk – Master's thesis
 
+> [!NOTE]
+> All repositories are private. Access is available on request.
+
 Code and data of the master's thesis *Designed to Debunk: Anforderungsanalyse und
 Datensatzkonstruktion für ausgewählte XAI-Modelle zur Detektion von Desinformation
 im digitalen Raum* (Ulm University, Institute of Business Analytics, 2026), written
@@ -22,7 +25,3 @@ Working copy of thesis can be found [here](https://github.com/moritz-podiebrad-t
 
 Data flow: EKILED-XAI-Dataset → input JSONL → ekiled-llm-annotation-mpo → result
 JSONL → EKILED-XAI-Dataset.
-
-## Access
-
-All repositories are private. Access is available on request.
